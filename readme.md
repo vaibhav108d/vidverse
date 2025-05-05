@@ -22,7 +22,7 @@ Included in this repository is a Postman collection file (`vidverse.postman_coll
 The project includes PM2 for process management in production environments. PM2 is used to ensure reliable and efficient execution of the Node.js application.
 
 ## Installation:
-1. Clone the repository: `git clone https://github.com/agrpranjal07/nimbusvid-server_Backend-Project.git`
+1. Clone the repository: `git clone https://github.com/vaibhav108d/vidverse.git`
 2. Install dependencies: `npm install`
 3. Start the server: `npm start`
 
